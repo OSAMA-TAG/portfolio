@@ -1,0 +1,9 @@
+{
+  "name": "muhammad-osama-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "check": "node --check js/data.js && node --check js/main.js && node --check js/motion.js && node --check js/scene.js && node --check js/effects.js"
+  }
+}
